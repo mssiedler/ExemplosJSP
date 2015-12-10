@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <a href="Recebendo-GET-URL.jsp?nome=joao&cep=96090170&idade=66">Enviar via GET através do LINK</a>
+        <a href="Recebendo-GET-URL.jsp?nome=joao&cep=96090170&idade=66">
+            Enviar via GET através do LINK</a>
     </body>
 </html>
